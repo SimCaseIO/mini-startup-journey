@@ -1,10 +1,13 @@
 {
   "files": {
+    "main.css": "/mini-startup-journey/dist/static/css/main.21194454.css",
     "main.js": "/mini-startup-journey/dist/static/js/main.bf03b4a2.js",
     "index.html": "/mini-startup-journey/dist/index.html",
+    "main.21194454.css.map": "/mini-startup-journey/dist/static/css/main.21194454.css.map",
     "main.bf03b4a2.js.map": "/mini-startup-journey/dist/static/js/main.bf03b4a2.js.map"
   },
   "entrypoints": [
+    "static/css/main.21194454.css",
     "static/js/main.bf03b4a2.js"
   ]
 }
