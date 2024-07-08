@@ -1,5 +1,5 @@
 {
-  "homepage": "https://simcaseio.github.io/mini-startup-journey/dist/",
+  "homepage": "https://simcaseio.github.io/mini-startup-journey/",
   "scripts": {
     "start": "react-scripts start",
     "build": "BUILD_PATH='./dist' react-scripts build"
