@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/mini-startup-journey/static/js/main.bf03b4a2.js",
-    "index.html": "/mini-startup-journey/index.html",
-    "main.bf03b4a2.js.map": "/mini-startup-journey/static/js/main.bf03b4a2.js.map"
+    "main.js": "/mini-startup-journey/dist/static/js/main.bf03b4a2.js",
+    "index.html": "/mini-startup-journey/dist/index.html",
+    "main.bf03b4a2.js.map": "/mini-startup-journey/dist/static/js/main.bf03b4a2.js.map"
   },
   "entrypoints": [
     "static/js/main.bf03b4a2.js"
