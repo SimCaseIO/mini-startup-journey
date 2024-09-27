@@ -63,11 +63,14 @@ const SelectionScreen = () => {
         </button>
       </div>
       {strategy && (
-        <button
-          onClick={confirmSelection}
-          className='bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 rounded-full transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-opacity-50'>
-          Confirm Selection
-        </button>
+        <div className='flex justify-center space-x-4 mb-6'>
+          <button
+            onClick={confirmSelection}
+            aria-label='Confirm Selection'
+            className='bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 rounded-full transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-opacity-50'>
+            Confirm Selection
+          </button>
+        </div>
       )}
     </div>
   );
