@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mini-startup-journey/dist/static/css/main.d880aa91.css",
+    "main.css": "/mini-startup-journey/dist/static/css/main.33a83e77.css",
     "main.js": "/mini-startup-journey/dist/static/js/main.9d4b150c.js",
-    "static/media/shield-white-trans.png": "/mini-startup-journey/dist/static/media/shield-white-trans.bebb80ae9b8e86b8fd46.png",
+    "static/media/logo-bg.png": "/mini-startup-journey/dist/static/media/logo-bg.19c7078767a3481d8725.png",
     "index.html": "/mini-startup-journey/dist/index.html",
-    "main.d880aa91.css.map": "/mini-startup-journey/dist/static/css/main.d880aa91.css.map",
+    "main.33a83e77.css.map": "/mini-startup-journey/dist/static/css/main.33a83e77.css.map",
     "main.9d4b150c.js.map": "/mini-startup-journey/dist/static/js/main.9d4b150c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d880aa91.css",
+    "static/css/main.33a83e77.css",
     "static/js/main.9d4b150c.js"
   ]
 }
